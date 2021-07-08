@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+*{
+    margin:0px;
+    padding:0;
+}
+.container{
+    margin:20px;
+}
+.big-text{
+    font-size: 70px;
+    margin-top:30px;
+    color:goldenrod;
+}
+
+.text{
+    font-size: 70px;
+    color:#36486b"
+}
+.logo{
+
+    width:300px;
+}
+.banerimage{
+    height: 500px;
+    width: 500px;
+    margin-left: 20px;
+}
+.firstbutton{
+    background-color:rgb(142, 185, 10); 
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; 
+    float: left;
+  }
+.button{
+  background-color:rgb(142, 185, 10); 
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  float: right;
+
+
+
+}
+.pragraph{
+    margin-right: 150px;
+}
+
+.image-size{
+ height: 290px;
+ width: 270px;
+ padding: 40px;
+ background-color: #f3efefde;
+ border-radius: 20px;
+ align-self: center;
+ margin-top: 20px;
+
+}
+
+h1{
+  color: goldenrod;
+  text-align: left;
+}
+
+
+.image{
+    height:80px;
+    width:80px ;
+}
+.XMLID{
+    height: 500px;
+    width:500px;
+    margin-left: 30px;
+   }
+   
+   #subscribe{
+       background-color:rgb(136, 218, 250) ;
+       border-radius: 10px;;
+       padding: 10px;
+   }
+   .buy-now-button{
+     background-color: rgb(142, 185, 10);
+   }
+   .footer{
+       text-align: center;
+   }
